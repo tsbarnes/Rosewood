@@ -5,7 +5,7 @@ cursorTheme=breeze_cursors
 ColorScheme=KogaRosewood
 
 [kdeglobals][KDE]
-widgetStyle=Breeze
+widgetStyle=breeze
 
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
@@ -15,7 +15,7 @@ LayoutName=org.kde.breeze.desktop
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.breeze
-theme=Breeze
+theme=
 
 [plasmarc][Theme]
-name=default
+name=Arc-Color
