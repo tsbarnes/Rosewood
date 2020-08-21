@@ -10,3 +10,4 @@ X-KDE-PluginInfo-Name=com.tsbarnes.Rosewood
 X-KDE-PluginInfo-Version=0.1
 X-KDE-PluginInfo-Website=https://github.com/tsbarnes/Rosewood
 X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1412620,kns://plasma-themes.knsrc/api.kde-look.org/1167639,kns://icons.knsrc/api.kde-look.org/1298508
