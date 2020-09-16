@@ -7,6 +7,9 @@ ColorScheme=KogaRosewood
 [kdeglobals][KDE]
 widgetStyle=breeze
 
+[kdeglobals][Icons]
+Theme=Breeze-Chameleon Light
+
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
 
